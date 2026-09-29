@@ -15,6 +15,7 @@ A single page personal site styled like a small desktop, click "about," "project
 No install or build step needed, since it's static HTML/CSS.
 1. Clone the repo
 2. Open `index.html` directly in a browser.
+
 Though, I highly doubt you’ll ever actually need to run my personal site on your own machine...
 
 ## Screenshots
