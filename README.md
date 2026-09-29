@@ -4,7 +4,7 @@ A personal site that I built for Pixl's "Raise your Builder Page" trial. It intr
 **check out the [Live Website](https://nikhilkshub.github.io/raise-your-builder-page/)**
 
 ## What it is
-A single page personal site styled like a small desktop, click "about," "projects," "links," or "contact" and a window opens over the home screen. About containing content that introduces me , Projects contains the project i made with a GitHub link all to view all the projects , Links contain all the links related to me like Instagram , YouTube , GitHub , my digital store and other and then the Contact contains the Email me option 
+A single page personal site styled like a small desktop, click "about," "projects," "links," or "contact" and a window opens over the home screen. About containing content that introduces me , Projects contains the project i made with a GitHub link to view all the projects , Links contain all the links related to me like Instagram , YouTube , GitHub , my digital store and other and then the Contact contains the Email me option 
 
 ## Built with
 - Plain HTML5 and CSS3 and nothing else
