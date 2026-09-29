@@ -38,9 +38,13 @@ Though, I highly doubt you’ll ever actually need to run my personal site on yo
 
 ## Built with AI assistance — here's exactly how
 Specifically:
+
 **Concept and layout decisions** (the desktop/window idea, color palette, typography) were mine, developed through back-and-forth discussion and so many online inspirations 
+
 **CSS concepts were explained to me** (flexbox, the box model, `:target`, pseudo-elements) and I wrote the actual code myself based on those explanations
+
 **Debugging help** when things weren't working (e.g. a flexbox sizing quirk with `max-width`)
+
 **Wording feedback** on a few lines of copy (the About page intro, project descriptions)
  
 Everything in this repo's HTML/CSS, I wrote by hand and understand line by line — Claude explained concepts and caught bugs, it didn't generate the files for me.
