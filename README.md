@@ -1,50 +1,57 @@
-# Nikhil Kunwar — Personal Builder Page
-A personal site that I built for Pixl's "Raise your Builder Page" trial. It introduces me, links to what I've made, and gives a way to reach me.
-
-**check out the [Live Website](https://nikhilkshub.github.io/raise-your-builder-page/)**
+# Raise your Builder Page
+My personal website.
 
 ## What it is
-A single page personal site styled like a small desktop, click "about," "projects," "links," or "contact" and a window opens over the home screen. About containing content that introduces me , Projects contains the project i made with a GitHub link to view all the projects , Links contain all the links related to me like Instagram , YouTube , GitHub , my digital store and other and then the Contact contains the Email me option 
+A personal website where you can read about me (my story), my projects, go through my channel links, and a contact option to get in touch with me.
 
-## Built with
-- Plain HTML5 and CSS3 and nothing else
-- Google Fonts that i used: Space Grotesk, Inter, JetBrains Mono
-- The window-opening behavior uses CSS `:target`, not JavaScript
+The site is a single page with a small window in the middle and four buttons.
 
-## How to run it locally
-No install or build step needed, since it's static HTML/CSS.
-1. Clone the repo
-2. Open `index.html` directly in a browser.
+- "about" -> where you can read about me.
+- "projects" -> showcasing some projects I built and a GitHub link on top to see all the other projects I built and building right now.
+- "links" -> find me on other platforms.
+- "contact" -> contact me through this.
 
-Though, I highly doubt you’ll ever actually need to run my personal site on your own machine...
+## Live demo
+[Live Website](https://nikhilkshub.github.io/raise-your-builder-page/)
 
 ## Screenshots
-**Instead of looking at screenshots, check out the live site yourself to see how it's made!**
-
+These are just a few of the pages. The rest you’ll have to find by clicking around yourself.
 ### Homepage
 ![Homepage](assets/homepage.png)
 
 ### Links
 ![Links](assets/links.png)
 
-### Contact
-![Contact](assets/contact.png)
-
-### About
-![About](assets/about.png)
-
 ### Projects
 ![Projects](assets/projects.png)
 
-## Built with AI assistance — here's exactly how
-Specifically:
 
-**Concept and layout decisions** (the desktop/window idea, color palette, typography) were mine, developed through back-and-forth discussion and so many online inspirations 
+## Built with
+- HTML AND CSS
+- Icons - they were taken from free Icon websites
+- Fonts - Google Fonts (eg:- Flaticon, Freeicons etc) 
 
-**CSS concepts were explained to me** (flexbox, the box model, `:target`, pseudo-elements) and I wrote the actual code myself based on those explanations
+## How to run it 
+Though, I highly doubt you’ll ever actually need to run my personal site on your own machine...
+but still here you go :- 
 
-**Debugging help** when things weren't working (e.g. a flexbox sizing quirk with `max-width`)
+No install or build step needed, since it's static HTML/CSS.
+1. Clone the repo
+2. Open `index.html` directly in a browser.
 
-**Wording feedback** on a few lines of copy (the About page intro, project descriptions)
- 
-Everything in this repo's HTML/CSS, I wrote by hand and understand line by line — Claude explained concepts and caught bugs, it didn't generate the files for me.
+
+## Things I want to improve
+- Maybe adding new ways to contact me right now its just email.
+- Light/dark theme toggle option
+- current idea/currently working section(where i can show what i am doing currently)
+- and maybe some more design or animation 
+
+## AI usage
+- Concept and layout decisions (the desktop/window idea, color palette, typography) were mine, developed through back-and-forth discussion and so many online inspirations 
+- CSS concepts were explained to me (flexbox, the box model, `:target`, pseudo-elements) and I wrote the actual code myself based on those explanations and whenever I got stuck I took help from claude.
+- Debugging help when things weren't working (e.g. a flexbox sizing quirk with `max-width`)
+- Wording feedback on a few lines of copy (the About page intro, project descriptions)
+
+## Author
+NIKHIL KUNWAR
+[MY WEBSITE](https://nikhilkshub.github.io/raise-your-builder-page/)
